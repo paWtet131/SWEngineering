@@ -1,0 +1,14 @@
+# Сборка Maven
+target/
+dependency-reduced-pom.xml
+
+# Локальная база данных H2 (создаётся при запуске)
+data/
+
+# Файлы сред разработки
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
